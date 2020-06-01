@@ -10,5 +10,5 @@
 
 [submodule "DCN-v2"]
 	path = src/lib/model/networks/DCNv2
-	url = https://github.com/CharlesShang/DCNv2/
-	branch = master
+	url = https://github.com/kerry-Cho/DCNv2
+	branch = pytorch_1.5
