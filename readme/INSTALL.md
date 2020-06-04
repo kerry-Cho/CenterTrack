@@ -27,6 +27,7 @@ After installing Anaconda:
 
     ~~~
     pip install cython; pip install -U 'git+https://github.com/cocodataset/cocoapi.git#subdirectory=PythonAPI'
+    pip install git+https://github.com/philferriere/cocoapi.git#subdirectory=PythonAPI is Windows 
     ~~~
 
 3. Clone this repo:
